@@ -1,0 +1,5 @@
+json : it's an universal & very popular dataset 
+
+api -> request -> return data in json format
+
+SQL -> database directly to pandas (i think you know this)
