@@ -1,7 +1,8 @@
 # MachineLearningJourney
 
-This repository documents my day-by-day revision of Machine Learning concepts using
-hands-on Jupyter notebooks and real-world datasets.
+This repository tracks my day-by-day Machine Learning revision journey, combining
+theory, mathematical derivations, and hands-on implementation using Jupyter notebooks
+and real-world datasets.
 
-Each folder represents a focused learning day, covering core ideas through
-exploratory analysis and practical implementation.
+Each folder represents a dedicated learning day, where concepts are explored deeply
+and implemented from scratch to build strong ML fundamentals.
