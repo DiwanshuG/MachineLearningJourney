@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 .env
+day55/ml_env/
