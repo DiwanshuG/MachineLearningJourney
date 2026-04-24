@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+optuna
+xgboost
+jupyter
+plotly
+optuna-integration[xgboost]
